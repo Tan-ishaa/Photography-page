@@ -1,1 +1,3 @@
 # Photography-page
+
+The front page(Home page) idea for a photography website...
